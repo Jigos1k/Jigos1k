@@ -17,20 +17,10 @@
 
 <br clear="both">
 
-<div align="center" style="position:relative;">
-  <!-- Фоновое изображение -->
-  <img src="/assets/PanelSkills.png" style="width:100%;max-width:100%;" alt="Skills Panel"/>
-  
-  <!-- Статистические карточки - позиционирование абсолютное -->
-  <div style="position:absolute; top:50%; right:5%; transform:translateY(-50%); display:flex; flex-direction:column; gap:10px; align-items:flex-end;">
-    <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jigos1k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" width="100%" alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigos1k&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=cobalt&hide_border=true&order=2" width="100%" alt="languages graph"  />
-    </div>
-  </div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigos1k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" width="100%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigos1k&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=cobalt&hide_border=true&order=2" width="100%" alt="languages graph"  />
 </div>
-
-###
 
 ###
 
