@@ -2,10 +2,7 @@
 
 ### 📅 Календарь активности
 
-![Календарь активности](https://github-readme-activity-graph.vercel.app/graph?username=Jigos1k&theme=github-light&hide_border=true&area=true&custom_title=Моя%20активность)
-
-<!-- Динамический календарь -->
-![](https://github.com/Jigos1k/Jigos1k/blob/main/generated_calendar.svg)
+![Календарь](https://github-readme-stats.vercel.app/api?username=Jigos1k&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&line_height=21&hide_border=true)
 
 ###
 
