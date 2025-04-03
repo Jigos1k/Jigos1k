@@ -15,6 +15,8 @@
 
 <img src="https://raw.githubusercontent.com/Jigos1k/Jigos1k/output/snake.svg" alt="Snake animation">
 
+<img src="/dist/chart.svg" />
+
 <br clear="both">
 
 <div align="center">

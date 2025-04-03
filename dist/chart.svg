@@ -1,0 +1,63 @@
+
+    <svg width="650" height="400" viewBox="0 0 650 400" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .bar {
+          fill: #4285F4;
+          transform-origin: bottom;
+        }
+        .label {
+          font-family: Arial, sans-serif;
+          font-size: 14px;
+          font-weight: bold;
+          fill: #333;
+          text-anchor: middle;
+        }
+      </style>
+  
+    <line x1="182.5" y1="350" x2="467.5" y2="350" stroke="black" stroke-width="2" />
+  
+      <rect class="bar" x="182.5" y="350" width="45" height="0" rx="10" ry="10" style="rx:10; ry:10;">
+        <animate attributeName="height" from="0" to="300" dur="0.8s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="y" from="350" to="50" dur="0.8s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="rx" from="0" to="10" dur="0.8s" begin="0s" fill="freeze" />
+        <animate attributeName="ry" from="0" to="10" dur="0.8s" begin="0s" fill="freeze" />
+      </rect>
+    
+      <text class="label" x="205" y="40">JS</text>
+    
+      <rect class="bar" x="242.5" y="350" width="45" height="0" rx="10" ry="10" style="rx:10; ry:10;">
+        <animate attributeName="height" from="0" to="214.28571428571428" dur="0.8s" begin="0.15s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="y" from="350" to="135.71428571428572" dur="0.8s" begin="0.15s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="rx" from="0" to="10" dur="0.8s" begin="0.15s" fill="freeze" />
+        <animate attributeName="ry" from="0" to="10" dur="0.8s" begin="0.15s" fill="freeze" />
+      </rect>
+    
+      <text class="label" x="265" y="125.71428571428572">Python</text>
+    
+      <rect class="bar" x="302.5" y="350" width="45" height="0" rx="10" ry="10" style="rx:10; ry:10;">
+        <animate attributeName="height" from="0" to="171.42857142857142" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="y" from="350" to="178.57142857142858" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="rx" from="0" to="10" dur="0.8s" begin="0.3s" fill="freeze" />
+        <animate attributeName="ry" from="0" to="10" dur="0.8s" begin="0.3s" fill="freeze" />
+      </rect>
+    
+      <text class="label" x="325" y="168.57142857142858">Java</text>
+    
+      <rect class="bar" x="362.5" y="350" width="45" height="0" rx="10" ry="10" style="rx:10; ry:10;">
+        <animate attributeName="height" from="0" to="128.57142857142856" dur="0.8s" begin="0.44999999999999996s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="y" from="350" to="221.42857142857144" dur="0.8s" begin="0.44999999999999996s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="rx" from="0" to="10" dur="0.8s" begin="0.44999999999999996s" fill="freeze" />
+        <animate attributeName="ry" from="0" to="10" dur="0.8s" begin="0.44999999999999996s" fill="freeze" />
+      </rect>
+    
+      <text class="label" x="385" y="211.42857142857144">C++</text>
+    
+      <rect class="bar" x="422.5" y="350" width="45" height="0" rx="10" ry="10" style="rx:10; ry:10;">
+        <animate attributeName="height" from="0" to="85.71428571428571" dur="0.8s" begin="0.6s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="y" from="350" to="264.2857142857143" dur="0.8s" begin="0.6s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.1 0.8 0.2 1" />
+        <animate attributeName="rx" from="0" to="10" dur="0.8s" begin="0.6s" fill="freeze" />
+        <animate attributeName="ry" from="0" to="10" dur="0.8s" begin="0.6s" fill="freeze" />
+      </rect>
+    
+      <text class="label" x="445" y="254.28571428571428">Ruby</text>
+    </svg>
