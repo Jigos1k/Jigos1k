@@ -1,8 +1,6 @@
-<h2 align="left">Привет 👋! Меня зовут Никита, я фронтенд-разработчик из России</h2>
+<img src="/assets/BanerAvatar.png" />
 
-### 📅 Календарь активности
-
-![Календарь](https://github-readme-stats.vercel.app/api?username=Jigos1k&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&line_height=21&hide_border=true)
+<h2 align="center">Привет 👋! Меня зовут Никита, я фронтенд-разработчик из России</h2>
 
 ###
 
