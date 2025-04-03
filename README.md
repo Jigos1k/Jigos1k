@@ -15,16 +15,11 @@
 
 <img src="https://raw.githubusercontent.com/Jigos1k/Jigos1k/output/snake.svg" alt="Snake animation">
 
-<img src="/dist/chart.svg" />
-
 <br clear="both">
 
-<div align="center">
-  <a href="https://github.com/Jigos1k">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,cpp&theme=dark&perline=3" alt="Skills" />
-  </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jigos1k&layout=3d&theme=radical&hide_border=true&range=last_30_days&animation=true&animation_duration=0.6" alt="Wakatime Stats" />
+<div style="display: flex; align-items: center">
+  <img src="/assets/PanelSkills.png" />
+  <img src="/dist/chart.svg" />
 </div>
 
 ###
