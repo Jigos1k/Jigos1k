@@ -12,14 +12,15 @@
   - ⚡ **Увлечения:** Геймдев, нейросети, 3D-моделирование
 
 ###
-
-<img src="https://raw.githubusercontent.com/Jigos1k/Jigos1k/output/snake.svg" alt="Snake animation">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jigos1k/Jigos1k/output/snake.svg" alt="Snake animation" width="75%">
+</div>
 
 <br clear="both">
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigos1k&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=cobalt&hide_border=true&order=2" width="100%" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigos1k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" width="100%" alt="stats graph"  />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigos1k&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=cobalt&hide_border=true&order=2" width="75%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigos1k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" width="75%" alt="stats graph"  />
 </div>
 
 ###
