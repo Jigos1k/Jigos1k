@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jigos1k/Jigos1k/output/snake.svg" alt="Snake animation" />
+<img style="width: 600px; height: 200px" src="https://raw.githubusercontent.com/Jigos1k/Jigos1k/output/snake.svg" alt="Snake animation" />
 
 ###
 
