@@ -17,14 +17,17 @@
 
 <br clear="both">
 
-<div style="position: relative; width: 100%; max-width: 100%;">
+<div align="center" style="position:relative;">
   <!-- Фоновое изображение -->
-  <img src="/assets/PanelSkills.png" style="width: 100%; display: block;" />
+  <img src="/assets/PanelSkills.png" style="width:100%;max-width:100%;" alt="Skills Panel"/>
   
-  <!-- Контейнер для статистики -->
-  <div style="position: absolute; top: 50%; right: 20px; transform: translateY(-50%); display: flex; flex-direction: column; gap: 10px; align-items: flex-end;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jigos1k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="100" style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigos1k&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=cobalt&hide_border=true&order=2" height="100" style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
+  <!-- Статистические карточки - позиционирование абсолютное -->
+  <div style="position:absolute; top:50%; right:5%; transform:translateY(-50%); display:flex; flex-direction:column; gap:10px; align-items:flex-end;">
+    <!-- Статистика профиля -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Jigos1k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="150" style="box-shadow:0 4px 8px rgba(0,0,0,0.2); border-radius:8px;" alt="GitHub stats"/>
+    
+    <!-- Статистика языков -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigos1k&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=cobalt&hide_border=true&order=2" height="150" style="box-shadow:0 4px 8px rgba(0,0,0,0.2); border-radius:8px;" alt="Top languages"/>
   </div>
 </div>
 
