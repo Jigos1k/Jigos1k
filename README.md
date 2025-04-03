@@ -1,4 +1,4 @@
-<img src="/assets/BanerAvatar.png" />
+<img src="/assets/BannerAvatar.png" />
 
 <h2 align="center">Привет 👋! Меня зовут Никита, я фронтенд-разработчик из России</h2>
 
