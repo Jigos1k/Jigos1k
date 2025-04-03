@@ -4,18 +4,20 @@ const path = require('path');
 // Параметры из JSON
 const config = {
   data: [
-    { language: 'JS', value: 70 },
-    { language: 'Python', value: 50 },
+    { language: 'JS', value: 90 },
+    { language: 'TypeScript', value: 25 },
     { language: 'Java', value: 40 },
-    { language: 'C++', value: 30 },
-    { language: 'Ruby', value: 20 }
+    { language: 'PHP', value: 80 },
+    { language: 'Vuetify', value: 70 },
+    { language: 'React', value: 30 },
+    { language: 'Figma', value: 50 }
   ],
-  color: '#4285F4',
+  color: '#b99de6',
   width: 650,
-  height: 400,
+  height: 650,
   padding: 50,
   barWidth: 45,
-  spacing: 15,
+  spacing: 20,
   borderRadius: 10
 };
 
@@ -35,7 +37,7 @@ function generateSVG(data) {
           font-family: Arial, sans-serif;
           font-size: 14px;
           font-weight: bold;
-          fill: #333;
+          fill: #FFFFFF;
           text-anchor: middle;
         }
       </style>

@@ -18,8 +18,8 @@
 <br clear="both">
 
 <div style="display: flex; align-items: center">
-  <img src="/assets/PanelSkills.png" />
-  <img src="/dist/chart.svg" />
+  <img src="/assets/PanelSkills.png" style="width: 60%" />
+  <img src="/dist/chart.svg" style="width: 40%" />
 </div>
 
 ###
