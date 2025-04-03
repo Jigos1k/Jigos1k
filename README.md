@@ -17,6 +17,14 @@
 
 <br clear="both">
 
+<div align="center">
+  <a href="https://github.com/Jigos1k">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,cpp&theme=dark&perline=3" alt="Skills" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jigos1k&layout=3d&theme=radical&hide_border=true&range=last_30_days&animation=true&animation_duration=0.6" alt="Wakatime Stats" />
+</div>
+
 ###
 
 <h2 align="left">🔥 Мой стек</h2>
